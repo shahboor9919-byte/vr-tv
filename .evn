@@ -1,0 +1,11 @@
+# المصادر المدفوعة (الخاصة بك)
+PROVIDER_1_URL=http://u.goldeniptv.com:2052/get.php?username=04625070723A&password=7738319182e8&type=m3u_plus
+PROVIDER_2_URL=http://u.goldeniptv.com:2052/get.php?username=5664318922455886&password=Zy7gGv3o&type=m3u_plus
+PROVIDER_3_URL=http://u.goldeniptv.com:2052/get.php?username=0000b266e36b&password=ZtgFnwYN&type=m3u_plus
+
+# المصادر المجانية المستقرة (للتجربة والاحتياط)
+PROVIDER_4_URL=https://i.mjh.nz/PlutoTV/all.m3u8
+PROVIDER_5_URL=https://apsattv.com/ssungusa.m3u
+PROVIDER_6_URL=https://www.apsattv.com/xumo.m3u
+PROVIDER_7_URL=https://tvpass.org/playlist/m3u
+PROVIDER_8_URL=https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
