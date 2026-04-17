@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+loguru
+aiohttp
+python-dotenv
+pydantic
